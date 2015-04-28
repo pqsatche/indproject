@@ -1,0 +1,9 @@
+For every file change connection to database
+
+Change photo.jpg in each file
+
+Change table names (CTRL + F for find) 
+
+remove comments
+
+If you want change order of buttons

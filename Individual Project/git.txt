@@ -1,0 +1,52 @@
+Go to github.com
+create new depository
+
+copy given url
+
+
+go to putty
+
+go to desired path
+
+type:
+
+    git clone <url>
+
+now go to any file transfer
+
+transfer all files from location to the newly created folder (Where you typed git clone, it created new folder)
+
+go back to putty
+
+make sure you are in the new folder created when you typed git clone
+
+type:
+
+	git pull
+
+<< update files >>
+
+type: (case sensitive)
+
+	git add -A
+
+type:(case sensitive) ("message" is what you want to show up on github next to files, I recommend typing (updated files))
+
+	git commit -m "message"
+type:(last step)
+
+	git push
+
+you are done
+
+
+
+
+follow individual project guidlines for documentation
+
+export database schema from phpmyadmin
+flowchart giffy and database diagram and schema from group project
+
+
+
+
